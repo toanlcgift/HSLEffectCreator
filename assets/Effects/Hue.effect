@@ -53,7 +53,7 @@ uniform sampler2D texture;
     float u_dH;
     float u_dS;
     float u_dL;
-  }
+  };
   
 void main() {  
 
